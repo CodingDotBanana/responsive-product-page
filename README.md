@@ -2,7 +2,7 @@
 This GitHub Repository containes a responsive and visually appealing product page designed specifically for a fictional watch brand. It is built using HTML/CSS/JavaScript, and showcasing modern interface development practices, including responsive design, clean code structure, and basic interactivity.
 
 # Live Demo
-To view the live version of the site, visit https://CodeDotBanana.github.io/responsive-product-page.
+To view the live version of the site, visit [https://CodeDotBanana.github.io/responsive-product-page](https://codingdotbanana.github.io/responsive-product-page/).
 
 # Project Objectives
 The primary goals of this project are:
